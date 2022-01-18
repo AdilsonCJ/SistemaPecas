@@ -12,7 +12,7 @@ console.log("Bem Vindo ao Sistema de Cadastro Savinis!")
     // Se Tipo.caracteres < 3 - Erro
 // Senão Cadastrar
 
-let pesoPeca = 120
+let pesoPeca = 150
 
 if (pesoPeca > 100) {
     console.log("Peso maior que 100g. Cadastro da peça aprovado")
